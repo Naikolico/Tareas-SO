@@ -6,7 +6,7 @@
 
 >>> Nombres de archivos:
 
-> T2SO.c : Tarea con el codigo de busqueda de palabras de sopa de letras sin optimizar
+> T2SO.c : Tarea con el codigo principal del laberinto/juego
 
 > Makefile: Archivo tipo make para la compilacion
 

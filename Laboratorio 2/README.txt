@@ -1,9 +1,3 @@
->>> Nombres:
-
-> Nicolás Olivos Muñoz
-
-> Diego Morales Arellano
-
 >>> Nombres de archivos:
 
 > T2SO.c : Tarea con el codigo principal del laberinto/juego

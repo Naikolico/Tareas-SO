@@ -1,9 +1,3 @@
->>> Nombres:
-
-> Nicolás Olivos Muñoz  Rol: 202073507-7  Paralelo: 201
-
-> Diego Morales Arellano Rol: 202073511-5  Paralelo: 201
-
 >>> Nombres de archivos:
 
 > ForkClass.java : Parte de busqueda de palabra con fork

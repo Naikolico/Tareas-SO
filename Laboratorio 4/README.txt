@@ -1,11 +1,5 @@
 >>> La tarea fue realizada con python3 en WSL <<<
 
->>> Nombres:
-
-> Nicolás Olivos Muñoz Rol: 202073507-7 Paralelo: 201
-
-> Diego Morales Arellano Rol: 202073511-5 Paralelo: 201
-
 >>> Nombres de archivos:
 
 > T4SO.py : Contiene el código principal del laboratorio 4

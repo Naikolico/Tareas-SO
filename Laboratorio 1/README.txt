@@ -1,9 +1,3 @@
-Nombres:
-
-Nicolás Olivos Muñoz  Rol: 202073507-7  Paralelo: 201
-
-Diego Morales Arellano Rol: 202073511-5  Paralelo: 201
-
 Nombres de archivos:
 
 T1SO.c : Tarea con el codigo de busqueda de palabras de sopa de letras sin optimizar

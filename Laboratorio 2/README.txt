@@ -1,8 +1,8 @@
 >>> Nombres:
 
-> Nicolás Olivos Muñoz  Rol: 202073507-7  Paralelo: 201
+> Nicolás Olivos Muñoz
 
-> Diego Morales Arellano Rol: 202073511-5  Paralelo: 201
+> Diego Morales Arellano
 
 >>> Nombres de archivos:
 
